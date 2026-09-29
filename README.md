@@ -6,7 +6,7 @@ HTML5 Canvas と Web Audio API による単一ファイル構成で、パステ�
 ---
 
 ## 🌟 プレイURL
-👉 **[今すぐあそぶ（GitHub Pages）](https://yuki5321.github.io/sara-flappy-angel/)**
+👉 **[今すぐあそぶ（GitHub Pages）](https://yuki5321.github.io/sara_wallpaper68/)**
 
 ---
 
